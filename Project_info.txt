@@ -1,0 +1,3 @@
+Start date: 24/9
+What to do: Set the structure of the game. What we should include and how we will do it.
+Test our branches with GIT
